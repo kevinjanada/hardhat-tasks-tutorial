@@ -1,0 +1,7 @@
+*
+hardhat.config.ts
+scripts
+test
+!dist/**
+!package.json
+!README.md
